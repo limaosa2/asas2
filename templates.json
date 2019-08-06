@@ -13,6 +13,12 @@
     "width": 55, "height": 136
 	
 	},
+    "geral": {
+    "name": "voidAFtr.png",
+    "x": 3533, "y": 2455,
+    "width": 561, "height": 488 
+
+	},
     "template": {
     "name": "nomedopng.png",
     "x": 1, "y": 1,
