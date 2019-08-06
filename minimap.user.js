@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         tas
+// @name         tasvoid
 // @namespace    http://tampermonkey.net/
 // @version      1.00.0.0
 // @description  none
