@@ -8,6 +8,12 @@
     "width": 561, "height": 488 
 
 	},
+    "geralCIMA": {
+    "name": "geralCIMA.png",
+    "x": 3711, "y": 2127,
+    "width": 384, "height": 314 
+
+	},
     "template": {
     "name": "nomedopng.png",
     "x": 1, "y": 1,
