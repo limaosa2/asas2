@@ -1,11 +1,17 @@
   { "comment": "",
 
 
-    "template": {
-    "name": "nomedopng.png",
-    "x": 1, "y": 1,
-    "width": 1, "height": 1 
+    "bixinvoid": {
+    "name": "bixinvoid.png",
+    "x": 3533, "y": 2458,
+    "width": 134, "height": 94 
    
+	},
+    "afvoid": {
+    "name": "voidAF2.png",
+    "x": 4040, "y": 2470,
+    "width": 55, "height": 136
+	
 	},
     "template": {
     "name": "nomedopng.png",
