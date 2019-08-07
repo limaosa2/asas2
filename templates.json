@@ -2,17 +2,40 @@
 
 	
 
-    "geral": {
-    "name": "voidAFtr.png",
-    "x": 3533, "y": 2455,
-    "width": 561, "height": 488 
+   
 
-	},
     "geralCIMA": {
     "name": "geralCIMA.png",
     "x": 3711, "y": 2127,
     "width": 384, "height": 314 
 
+	},
+    "Direita_baixo_partebaixo": {
+    "name": "Direita_baixo_partebaixo.png",
+    "x": 3828, "y": 2656,
+    "width": 266, "height": 287 
+
+	
+	},
+    "Direita_cima_partebaixo": {
+    "name": "Direita_cima_partebaixo.png",
+    "x": 3828, "y": 2455,
+    "width": 266, "height": 201 
+	
+	},
+    "Esquerda_baixo_partebaixo": {
+    "name": "Esquerda_baixo_partebaixo.png",
+    "x": 3534, "y": 2695,
+    "width": 295, "height": 248  
+
+	
+	},
+    "Esquerda_cima_partebaixo": {
+    "name": "Esquerda_cima_partebaixo.png",
+    "x": 3533, "y": 2455,
+    "width": 295, "height": 240
+ 
+	
 	},
     "template": {
     "name": "nomedopng.png",
